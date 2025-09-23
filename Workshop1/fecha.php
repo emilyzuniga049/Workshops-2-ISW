@@ -1,5 +1,4 @@
 <?php
-  // Definir zona horaria (ejemplo: Costa Rica)
   date_default_timezone_set("America/Costa_Rica");
 ?>
 <!DOCTYPE html>
